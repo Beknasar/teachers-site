@@ -1,0 +1,23 @@
+/*Features section*/
+
+#features {
+	position: relative;
+	z-index: 1;
+}
+
+.feature-title {
+	font-size: 1.5rem;
+}
+
+.feature-box {
+	padding: 5%;
+}
+
+.icon {
+	color: #11999E;
+	margin: 1rem;
+}
+
+.icon:hover {
+	color: #40514E;
+}
